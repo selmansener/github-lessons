@@ -2,6 +2,8 @@
 
 pdf üzerinden anlat
 
+![github-lessons](https://github.com/selmansener/github-lessons/blob/master/git-lessons.jpg)
+
 github desktop indir
     
 https://desktop.github.com/download/
