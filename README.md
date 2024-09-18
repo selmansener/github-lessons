@@ -20,3 +20,5 @@ var olan repositoryi clone'lama
     https://github.com/selmansener/github-lessons.git
 
 var olan repositoryi forklama
+
+main/master branch history görüntüleme
